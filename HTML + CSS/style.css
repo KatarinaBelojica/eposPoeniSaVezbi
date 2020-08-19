@@ -1,0 +1,68 @@
+* {
+    font-family: Impact, Charcoal, sans-serif;
+    margin: 0;
+}
+
+body {
+    margin: 0;
+}
+
+header {
+    text-align: center;
+    height: 10vh;
+}
+
+footer {
+    height: 10vh;
+}
+
+.productDescription {
+    height: fit-content;
+    display: flex;
+}
+
+.productDescription img:hover {
+    outline: 5px solid purple;
+}
+
+#productDescription {
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    color: white;
+}
+
+.productInfoWrapper {
+    display: flex;
+}
+
+.silimilarProducts {
+    display: flex;
+}
+
+.silimilarProduct {
+    height: 250;
+    width: 100%;
+}
+
+.review {
+    padding: 2rem;
+}
+
+.bg-red {
+    background-color: red;
+}
+
+.bg-green {
+    background-color: green;
+}
+
+.bg-blue {
+    background-color: blue;
+}
+
+.w-50 {
+    width: 50%;
+}
+
+.w-100 {
+    width: 100%;
+}
